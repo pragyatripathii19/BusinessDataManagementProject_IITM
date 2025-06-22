@@ -1,6 +1,8 @@
 # 🔍 Customer Segmentation & Seasonal Demand Forecasting
 
 **Real-World Business Analytics Project | VP Fire and Security System Pvt. Ltd.**
+<img width="814" alt="image" src="https://github.com/user-attachments/assets/ba3821d0-d8a5-49b1-bea5-6ce0e3402653" />
+
 
 ## 📌 Overview
 
