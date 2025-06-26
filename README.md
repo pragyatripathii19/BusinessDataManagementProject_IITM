@@ -1,8 +1,16 @@
+# 🏆 **Top 9 out of 700+ | BDM Capstone Project Award – IIT Madras**
+
+> *This project was recognized among the **Top 9 Capstone Projects** out of 700+ submissions as part of the **Business Data Management (BDM) Capstone** by **IIT Madras**, earning a prestigious award for analytical rigor, business relevance, and real-world impact.*
+>
+> 📩 **Award Nomination Email:** <img width="500" alt="award-nomination" src="https://github.com/user-attachments/assets/3f94a13a-9c32-4b3d-b0fc-ed76d87fafdf.png" />
+
+---
+
 # 🔍 Customer Segmentation & Seasonal Demand Forecasting
 
-**Real-World Business Analytics Project | VP Fire and Security System Pvt. Ltd.**
-<img width="814" alt="image" src="https://github.com/user-attachments/assets/ba3821d0-d8a5-49b1-bea5-6ce0e3402653" />
+**Real-World Business Analytics Project | VP Fire and Security System Pvt. Ltd.** <img width="814" alt="project-banner" src="https://github.com/user-attachments/assets/ba3821d0-d8a5-49b1-bea5-6ce0e3402653" />
 
+---
 
 ## 📌 Overview
 
@@ -13,21 +21,21 @@ This project was conducted as part of a collaborative initiative with **VP Fire 
 ## 🧩 Business Problem Statements
 
 1. **Forecasting Seasonal Demand**
-   The company faced difficulties forecasting demand spikes—especially during festive seasons like November—leading to inventory shortages and understaffing, which in turn caused missed sales opportunities.
+   Difficulty in predicting festive demand spikes, leading to inventory shortages and missed sales.
 
 2. **Customer Base Understanding**
-   VP Fire lacked a data-driven understanding of its customer base, resulting in inefficient marketing strategies and limited personalized engagement across segments.
+   Lack of a data-driven segmentation model resulted in ineffective marketing and low engagement.
 
 3. **Market Visibility**
-   As a relatively new player in the market, the company struggled with visibility and brand recognition in lucrative sectors such as hotels and hospitals, limiting growth.
+   Struggled to establish presence in high-potential sectors like hotels and hospitals.
 
 ---
 
 ## 🎯 Project Objectives
 
-* Build a **segmentation strategy** based on customer purchasing behavior to enhance retention and engagement.
-* Develop **time series models** to forecast seasonal demand fluctuations.
-* Generate **strategic recommendations** using insights derived from data, aligned with business needs.
+* Create a **segmentation model** based on purchase behavior
+* Develop **time series forecasts** to handle seasonal fluctuations
+* Deliver **strategic recommendations** for retention, engagement, and outreach
 
 ---
 
@@ -35,50 +43,56 @@ This project was conducted as part of a collaborative initiative with **VP Fire 
 
 ### 1. Customer Segmentation
 
-* **Techniques Used**:
+**Techniques Used**:
 
-  * RFM (Recency, Frequency, Monetary) Scoring
-  * K-Means Clustering
-* **Insights & Output**:
+* RFM (Recency, Frequency, Monetary) Scoring
+* K-Means Clustering
 
-  * Identified VIP, Loyal, and At-Risk customer segments
-  * Suggested relationship-based retention strategies, win-back campaigns, and CRM enhancement
+**Findings**:
+
+* Segments identified: **VIP**, **Loyal**, **At-Risk**
+* Strategic actions proposed: Win-back campaigns, CRM enhancement, loyalty rewards
+
+---
 
 ### 2. Seasonal Demand Forecasting
 
-* **Techniques Used**:
+**Techniques Used**:
 
-  * Time Series Decomposition
-  * ADF Test for stationarity
-  * SARIMA Modeling
-* **Best Model**: SARIMA(1,1,2)(1,0,1)\[7]
-* **Performance Metrics**:
+* Time Series Decomposition
+* ADF Test for Stationarity
+* SARIMA Modeling
 
-  * **AIC**: 520.94
-  * **MAE**: 113,641.08
-  * **WAPE**: 101.82%
-* **Application**: Forecasted weekly demand to guide inventory stocking and manpower allocation
+**Best Model**: SARIMA(1,1,2)(1,0,1)\[7]
+**Metrics**:
+
+* **AIC**: 520.94
+* **MAE**: 113,641.08
+* **WAPE**: 101.82%
+
+**Usage**: Guided **weekly stocking plans** and **staffing strategy**
 
 ---
 
 ## 📈 Estimated Business Impact
 
-* Potential **20% increase in customer retention and reactivation** through tailored engagement strategies
-* Minimized **stock-outs and service delays** during high-demand periods
-* Improved **market reach** through product-specific and cross-promotional campaign strategies
+* ✅ **20% increase in retention/reactivation** with segment-based engagement
+* 📦 **Stock-out minimization** during peak seasons
+* 📣 Improved **sector-specific outreach** and brand visibility
 
 ---
 
 ## 🧰 Tools & Technologies
 
 * **Languages**: Python, SQL
-* **Libraries**: Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn
+* **Libraries**: `pandas`, `numpy`, `scikit-learn`, `statsmodels`, `matplotlib`, `seaborn`
 * **Platform**: Jupyter Notebook
-* **Techniques**: Clustering, RFM Analysis, Time Series Forecasting (SARIMA)
+* **Key Techniques**: Clustering, RFM, SARIMA-based Forecasting
 
 ---
 
 ## 📌 Disclaimer
 
-> ⚠️ This was an academic-industry collaborative project using real but anonymized business data.
-> The insights were generated in an exploratory capacity and not deployed to live production systems.
+> ⚠️ This was an academic-industry collaborative project using anonymized real business data.
+> Insights were developed for exploratory purposes and not deployed in production systems.
+
