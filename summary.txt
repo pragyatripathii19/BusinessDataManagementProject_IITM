@@ -1,0 +1,7 @@
+VP Fire System Private Limited is a Delhi-based B2B provider of fire and security solutions, established in 2018. Despite steady growth, the business faced three key challenges: forecasting seasonal demand, better understanding its customer base for targeted marketing, and increasing market visibility in high-potential sectors like hotels and hospitals.
+
+To address these issues, sales and purchase data from October to December 2024 were collected, cleaned, and structured. Descriptive analysis highlighted highly skewed sales distributions, extreme outliers, and a clear Pareto pattern in customer purchases. Weekly seasonality in demand was also identified.
+
+Advanced analytics were applied, including RFM analysis, K-Means clustering, and ARIMA/SARIMA forecasting. The analysis segmented clients into Mid-Value (50%), High-Value VIPs (7 customers), and Low-Value groups. Clustering also revealed a loyal core and a churn-risk segment. SARIMA(1,1,2)(1,0,1)[7] emerged as the optimal model, accurately capturing weekly demand cycles.
+
+Based on these insights, recommendations included targeted marketing campaigns, win-back strategies, dedicated relationship managers for VIP clients, and integration of cluster labels into CRM systems. Forecasting was used to plan inventory and staffing ahead of seasonal peaks. As a result, VP Fire System improved customer engagement, reduced stock-outs, and enhanced market visibility through strategic promotions, successfully shifting toward proactive, data-driven decision-making.
