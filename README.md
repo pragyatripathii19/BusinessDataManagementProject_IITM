@@ -1,17 +1,18 @@
-# 🏆 **Top 9 out of 700+ | BDM Capstone Project Award – IIT Madras**
+# 🏆 **Top 9 out of 700+ | IIT Madras BDM Capstone Project Award**
 
-> *This project was recognized among the **Top 9 Capstone Projects** out of 700+ submissions as part of the **Business Data Management (BDM) Capstone** by **IIT Madras**, earning a prestigious award for analytical rigor, business relevance, and real-world impact.*
+> *Recognized among the **Top 9 Capstone Projects** out of 700+ submissions in the **Business Data Management (BDM)** course at **IIT Madras**.*
 >
-> CERTIFICATE LINK: https://drive.google.com/file/d/1yE0fDOpKoMY8eYoX90eq2R6B_3-IWEXr/view?usp=sharing
-> 
-> 📩 **Award Nomination Email:** ![image](https://github.com/user-attachments/assets/130d9163-1b96-4903-83b0-930fe3cecf83)
-
+> Awarded for **analytical rigor**, **business relevance**, and **real-world impact** in solving key industry challenges.
+>
+> 📄 [**View Certificate**](https://drive.google.com/file/d/1yE0fDOpKoMY8eYoX90eq2R6B_3-IWEXr/view?usp=sharing)
+> 📩 **Award Nomination Email Preview:**
+> ![Award Email](https://github.com/user-attachments/assets/130d9163-1b96-4903-83b0-930fe3cecf83)
 
 ---
 
 # 🔍 Customer Segmentation & Seasonal Demand Forecasting
 
-**Real-World Business Analytics Project | VP Fire and Security System Pvt. Ltd.** <img width="814" alt="project-banner" src="https://github.com/user-attachments/assets/ba3821d0-d8a5-49b1-bea5-6ce0e3402653" />
+**Real-World Business Analytics Project | In collaboration with VP Fire and Security System Pvt. Ltd.** <img width="814" alt="Project Banner" src="https://github.com/user-attachments/assets/ba3821d0-d8a5-49b1-bea5-6ce0e3402653" />
 
 ---
 
