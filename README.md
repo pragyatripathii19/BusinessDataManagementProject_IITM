@@ -2,6 +2,7 @@
 
 > *This project was recognized among the **Top 9 Capstone Projects** out of 700+ submissions as part of the **Business Data Management (BDM) Capstone** by **IIT Madras**, earning a prestigious award for analytical rigor, business relevance, and real-world impact.*
 >
+> CERTIFICATE LINK: https://drive.google.com/file/d/1yE0fDOpKoMY8eYoX90eq2R6B_3-IWEXr/view?usp=sharing
 > 📩 **Award Nomination Email:** ![image](https://github.com/user-attachments/assets/130d9163-1b96-4903-83b0-930fe3cecf83)
 
 
